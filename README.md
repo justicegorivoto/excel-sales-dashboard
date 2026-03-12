@@ -1,4 +1,8 @@
 # Excel Sales Dashboard
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 
 This project analyzes the **Global Superstore dataset (~10,000 rows)** using Microsoft Excel.
 
